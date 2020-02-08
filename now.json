@@ -16,8 +16,8 @@
   "env": {
     "NODE_ENV": "production",
     "PORT": "1337",
-    "DATABASE_URL": "@travel-log-db",
-    "CORS_ORIGIN": "https://travel-log-jdh.herokuapp.com/",
+    "DATABASE_URL": "mongodb+srv://db-user:StarWars@cluster0-myvbs.mongodb.net/test?retryWrites=true&w=majority",
+    "CORS_ORIGIN": "https://travel-log-backend.now.sh/",
     "API_KEY": "@travel-log-api-key"
   }
 }
