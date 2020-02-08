@@ -13,6 +13,9 @@
       "dest": "src/index.js"
     }
   ],
+  "alias": [
+    "travel-log-backend"
+  ],
   "env": {
     "NODE_ENV": "production",
     "PORT": "1337",
