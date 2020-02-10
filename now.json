@@ -20,7 +20,7 @@
     "NODE_ENV": "production",
     "PORT": "1337",
     "DATABASE_URL": "mongodb+srv://db-user:StarWars@cluster0-myvbs.mongodb.net/test?retryWrites=true&w=majority",
-    "CORS_ORIGIN": "https://travel-log-backend.now.sh/",
+    "CORS_ORIGIN": "https://travel-log-backend-27xx9gf3y.now.sh/",
     "API_KEY": "@travel-log-api-key"
   }
 }
